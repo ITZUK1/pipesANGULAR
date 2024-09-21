@@ -54,7 +54,4 @@ export class UncommonPageComponent {
     }, 3500);
   })
 
-
-
-
-}
+} 
